@@ -1,0 +1,43 @@
+/*
+// Author: Tomi
+// Date: 06/01/2022
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap'); /*Font imported*/
+
+* {
+    font-family: 'Montserrat', sans-serif; /*Font used on website*/
+/ important;
+}
+
+body {
+    background-color: transparent;
+}
+
+#container {
+    padding: 0 40px;
+    width: 100%;
+    margin: 15px auto auto auto;
+    background-color: white;
+    font-size: 20px;
+}
+
+.btn-block {
+    width: 30%;
+}
+
+button {
+    margin: auto;
+}
+
+.navbar {
+    width: 100%;
+}
+
+input {
+    display: block;
+}
+
+.warning {
+    color: red;
+}
